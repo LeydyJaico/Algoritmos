@@ -19,6 +19,3 @@ if longitud_a==longitud_n:
     print("la longitud del apellido y nombre son iguales")
 else:
     print("Las longitudes del apellido y nombre son distintas")
-print("")  # Esto imprime una línea en blanco
-print("")  # Esto imprime una línea en blanco
-print("")  # Esto imprime una línea en blanco 
