@@ -38,7 +38,7 @@ def generar_contraseña(longitud):
     # mezcla
     random.shuffle(contraseña)
 
-    # cadena
+    # 
     return ''.join(contraseña)
 
 # Solicitar la longitud de la contraseña al usuario
